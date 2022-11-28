@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on \*cool\* (web or not, but preferably open source) projects.
 - 📫 How to reach me? Drop me a DM on [Mastodon](https://mas.to/@palozano).
 
-![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=palozano&count_private=true&heme=dracula&show_icons=true)
+![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=palozano&count_private=true&theme=dracula&show_icons=true)
 
 <!---
 palozano/palozano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
