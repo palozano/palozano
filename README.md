@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m Pablo! 👀 I’m really interested in Rust, but I've worked with Typescript, Python R, C, and Swift.
 - 🔧 I like functional programming and clean design (arch. and viz.).
-- 🌱 I’m currently learning cryptography and good software architecture.
+- 🌱 I’m currently improving my cryptography skills and the way I architect software.
 
 <!---
 palozano/palozano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
