@@ -2,6 +2,8 @@
 ![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=palozano&count_private=true&theme=dracula&show_icons=true)
 -->
 
+<div align="center">
+  
 - 👋 Hi, I’m Pablo! 👀 I’m really interested in Rust, but I've worked with Typescript, Python R, C, and Swift.
 - 🔧 I like functional programming and clean design (arch. and viz.).
 - 🌱 I’m currently improving my cryptography skills and the way I architect software.
@@ -10,7 +12,6 @@
 [![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=palozano&show_icons=true&theme=merko&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 --->
 
-<div align="center">
   <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=palozano&show_icons=true&count_private=true&theme=dark"
