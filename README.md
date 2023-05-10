@@ -3,7 +3,7 @@
 -->
 
   
-- 👋 Hi, I’m Pablo! 👀 I’m really interested in Rust, but I've worked with Typescript, Python R, C, and Swift.
+- 👋 Hi, I’m Pablo! 👀 I’m really interested in Rust, and I'm good with weird tricks in Python.
 - 🔧 I like functional programming and clean design (arch. and viz.).
 - 🌱 I’m currently improving my cryptography skills and the way I architect software.
 
