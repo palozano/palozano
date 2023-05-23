@@ -3,9 +3,12 @@
 -->
 
   
-- 👋 Hi, I’m Pablo! 👀 I’m really interested in Rust, and I'm good with weird tricks in Python.
-- 🔧 I like functional programming and clean design (arch. and viz.).
-- 🌱 I’m currently improving my cryptography skills and the way I architect software.
+- 👋 Hi, I’m Pablo! 👀 I’m fairly decent with Rust, and I'm good with weird tricks in Python.
+- 🌱 I like functional programming, cryptography, and clean design (arch. and viz.).
+
+
+
+<!-- - 🔧 I’m currently improving my cryptography skills and the way I architect software. --->
 
 <!---
 [![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=palozano&show_icons=true&theme=merko&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
