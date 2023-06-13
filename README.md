@@ -4,7 +4,7 @@
 
   
 - 👋 Hi, I’m Pablo! 👀 I’m fairly decent with Rust, and I'm good with weird tricks in Python.
-- 🌱 I like functional programming, cryptography, and clean design (arch. and viz.).
+- 🌱 I like functional programming, cryptography.
 
 
 
