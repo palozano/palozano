@@ -4,7 +4,7 @@
 
   
 - 👋 Hi, I’m Pablo! 👀 I’m fairly decent with Rust, and I'm good with weird tricks in Python.
-- 🌱 I like functional programming, cryptography.
+- 🌱 I like functional programming and cryptography.
 
 
 
@@ -14,7 +14,7 @@
 [![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=palozano&show_icons=true&theme=merko&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 --->
 
-
+<!---
 <div align="center">
   <picture>
   <source
@@ -28,6 +28,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
   </picture>
 </div>
+--->
+
 <!---
 palozano/palozano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
