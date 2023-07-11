@@ -3,7 +3,8 @@
 -->
 
   
-- 👋 Hi, I’m Pablo! 👀 I’m fairly decent with Rust, and I'm good with weird tricks in Python.
+- 👋 Hi, I’m Pablo!
+- 👀 I’m fairly decent with Rust 🦀, good with weird tricks in Python 🐍, and started learning Ocaml 🐫.
 - 🌱 I like functional programming and cryptography.
 
 
