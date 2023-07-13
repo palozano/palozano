@@ -2,11 +2,11 @@
 ![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=palozano&count_private=true&theme=dracula&show_icons=true)
 -->
 
-  
+<!--  
 - 👋 Hi, I’m Pablo!
 - 👀 I’m fairly decent with Rust 🦀, good with weird tricks in Python 🐍, and started learning Ocaml 🐫.
 - 🌱 I like functional programming and cryptography.
-
+-->
 
 
 <!-- - 🔧 I’m currently improving my cryptography skills and the way I architect software. --->
@@ -35,3 +35,20 @@
 palozano/palozano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+```scss
+#PabloLozano {
+  position: "Software Developer";
+  pitch: "Experience in start-ups, reliable software, and research";
+  initial-letter: "P";
+  color: #ffa100;
+  height: 192cm;
+  opacity: 0.1;
+  speaks: Spanish, English, French, German, Rust 🦀, Python 🐍, Typescript, CSS, bit of Ocaml 🐫 (and more!);
+  likes: functional-programming, cryptography, good design, research;
+  stress: 50%;
+  volume: high;
+  z-index: 999999;
+}
+```
