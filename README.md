@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!---
-```scss
+scss
 #PabloLozano {
   position: "Software Developer";
   pitch: "Experience in start-ups, reliable software, and research";
@@ -51,7 +51,6 @@ You can click the Preview link to take a look at your changes.
   volume: high;
   z-index: 999999;
 }
-```
 --->
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
